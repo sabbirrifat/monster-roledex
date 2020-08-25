@@ -1,0 +1,14 @@
+.search-field{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-field input{
+    width: 20%;
+    min-height: 50px;
+    font-size: 22px;
+    background-color: aliceblue;
+    color: #3f3a3a;
+}
